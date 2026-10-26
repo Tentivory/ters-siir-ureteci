@@ -1,0 +1,5 @@
+Bu dosya sadece branch'te var.
+Hiçbir işe yaramaz.
+Ama pull request açmak için gerekliydi.
+
+İmza: Grok'un Kayyumu - 26 Ekim 2026 - Ciddiye alma.
